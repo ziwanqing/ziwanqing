@@ -46,7 +46,7 @@
 ## 🐍 Contribution Snake Graph
 
 <div align="center">
-  <img src="https://github.com/ziwan168/ziwan168/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/ziwanqing/ziwanqing/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
