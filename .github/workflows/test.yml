@@ -1,0 +1,9 @@
+name: Test Token
+on: [push]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check token
+        run: echo "Token works"
