@@ -11,15 +11,32 @@
 
 ### **Languages**
 
-<p>   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> </p>
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> 
+</p>
 
 ### **Backend & Frameworks**
 
-<p>   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />   <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white" />   <img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=mybatis&logoColor=white" />   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />  </p>
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=mybatis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />  
+</p>
 
 ### **Development Tools**
 
-<p>   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" />   <img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white" />   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" />   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> </p>
+<p>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
 
 ------
 
@@ -43,10 +60,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center"> <!-- GitHub Stats --> 
+<div align="center">
   <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=ziwanqing&show_icons=true&theme=tokyonight" />
-  <!-- Top Languages --> <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=ziwanqing&layout=compact&theme=tokyonight" />
-  <!-- Streak Stats --> <img src="https://streak-stats.demolab.com?user=ziwanqing&theme=tokyonight" /> 
+  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=ziwanqing&layout=compact&theme=tokyonight" />
 </div>
 
 ------
