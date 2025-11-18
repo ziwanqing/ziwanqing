@@ -43,7 +43,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ziwan168&show_icons=true&theme=tokyonight" />   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziwan168&layout=compact&theme=tokyonight" /> </div>
+<div align="center"> <!-- GitHub Stats --> 
+  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=ziwanqing&show_icons=true&theme=tokyonight" />
+  <!-- Top Languages --> <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=ziwanqing&layout=compact&theme=tokyonight" />
+  <!-- Streak Stats --> <img src="https://streak-stats.demolab.com?user=ziwanqing&theme=tokyonight" /> 
+</div>
 
 ------
 
