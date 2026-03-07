@@ -61,8 +61,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=ziwanqing&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=ziwanqing&show_icons=true&theme=tokyonight" />
+ <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ziwanqing&show_icons=true&theme=tokyonight" />
+ <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ziwanqing&layout=compact&theme=tokyonight" />
+
 </div>
 
 ------
