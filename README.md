@@ -101,8 +101,13 @@ Building practical AI applications with **LLMs, AI Agents, RAG, and multimodal t
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ziwanqing&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziwanqing&layout=compact&hide_border=true&theme=tokyonight" alt="Most Used Languages" />
+  <img height="165"
+       src="https://github-stats-extended.vercel.app/api?username=ziwanqing&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
+       alt="GitHub Statistics" />
+
+  <img height="165"
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=ziwanqing&layout=compact&hide_border=true&theme=tokyonight"
+       alt="Most Used Languages" />
 </div>
 
 ---
